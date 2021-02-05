@@ -1,0 +1,16 @@
+{
+  "name": "nodeuploads",
+  "version": "1.0.0",
+  "description": "Upload photos with Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Morris Penasso",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
